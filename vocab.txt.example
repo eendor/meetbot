@@ -1,0 +1,10 @@
+# Optional custom vocabulary list (one word/phrase per line)
+# Helps the model transcribe technical terms, project codenames, or specific jargon.
+# Copy this file to vocab.txt to use:
+#   cp vocab.txt.example vocab.txt
+
+# Example entries:
+# Kubernetes
+# PostgreSQL
+# Microservices
+# API

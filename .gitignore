@@ -1,0 +1,16 @@
+# Secrets & environment
+.env
+*.env
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+venv/
+.venv/
+env/
+
+# Generated transcripts and user data
+transcripts/
+vocab.txt
